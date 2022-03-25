@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="btn_del">Effacer</string>
+    <string name="btn_curve">Courbe</string>
+    <string name="btn_line">Ligne</string>
+    <string name="btn_rect">Rectangle</string>
+    <string name="btn_color">Couleur</string>
+    <string name="red">Rouge</string>
+    <string name="green">Vert</string>
+    <string name="blue">Bleu</string>
+    <string name="btn_validate">Valider</string>
+
+
+
+</resources>

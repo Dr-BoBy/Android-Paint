@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="btn_rect">rectangle</string>
+    <string name="btn_line">Line</string>
+    <string name="btn_curve">Curve</string>
+    <string name="btn_del">Delete</string>
+    <string name="btn_color">Color</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="btn_validate">Confirm</string>
+    <string name="red">Red</string>
+</resources>
